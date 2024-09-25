@@ -6,4 +6,4 @@ addd new line
 add release
 added feature
 walnut
-hz
+hazelnut
