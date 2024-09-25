@@ -7,3 +7,4 @@ add release
 added feature
 walnut
 hazelnut
+added Release 1.0
