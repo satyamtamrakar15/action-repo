@@ -5,4 +5,4 @@ Branch :
 addd new line
 add release
 added feature
-app6
+euro
