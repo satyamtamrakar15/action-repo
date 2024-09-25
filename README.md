@@ -2,9 +2,3 @@
 Branch :
   Added dev branch
   added feature branch
-addd new line
-add release
-added feature
-walnut
-hazelnut
-added Release 1.0
