@@ -5,5 +5,5 @@
   * added some comment
   * added push comment
   * added 123 comment
-  * actions repo 
+  * actions repo merge and pull
 
